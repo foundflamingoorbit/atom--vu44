@@ -1,4 +1,4 @@
-# 
+# Get the ultimate Atom for PC | Atom for Windows plugin with new Plugin for Atom for PC | Atom for Windows - terminal-integration and debugging. Featuring terminal-integration and
 
 
 
